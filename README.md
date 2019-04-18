@@ -6,9 +6,3 @@
 
 
 ![RGB image](./img/detail.png?raw=true) 
-
-
-
-
-
-[![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
